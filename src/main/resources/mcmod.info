@@ -5,8 +5,7 @@
   "description": "says gg when someone fails a puzzle in hypixel skyblock dungeons",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
+  "url": "https://github.com/solxris/autoggfail",
   "authorList": ["solxris"]
 }
 ]
