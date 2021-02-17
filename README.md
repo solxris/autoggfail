@@ -1,2 +1,2 @@
 says gg whenever someone fails a puzzle in dungeons 
-<img src=“https://cdn.discordapp.com/attachments/811196729743507466/811625796832854057/unknown.png”>
+<img src="https://github.com/solxris/autoggfail/blob/master/src/main/resources/example.png" width="600px" height="auto">
