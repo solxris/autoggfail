@@ -1,0 +1,103 @@
+[16:07:44] [Client thread/INFO]: Setting user: Player36
+[16:07:47] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:07:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Auto gg fail
+[16:07:52] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:07:52] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[16:07:52] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:07:52] [Thread-9/ERROR]: Error in class 'LibraryLWJGLOpenAL'
+[16:07:52] [Thread-9/ERROR]: Unable to initialize OpenAL.  Probable cause: OpenAL not supported.
+[16:07:52] [Thread-9/WARN]: ERROR MESSAGE:
+[16:07:52] [Thread-9/INFO]: Could not locate OpenAL library.
+[16:07:52] [Thread-9/WARN]: STACK TRACE:
+[16:07:52] [Thread-9/INFO]: org.lwjgl.openal.AL.create(AL.java:156)
+[16:07:52] [Thread-9/INFO]: org.lwjgl.openal.AL.create(AL.java:102)
+[16:07:52] [Thread-9/INFO]: org.lwjgl.openal.AL.create(AL.java:206)
+[16:07:52] [Thread-9/INFO]: paulscode.sound.libraries.LibraryLWJGLOpenAL.init(LibraryLWJGLOpenAL.java:164)
+[16:07:52] [Thread-9/INFO]: paulscode.sound.SoundSystem.CommandNewLibrary(SoundSystem.java:1576)
+[16:07:52] [Thread-9/INFO]: paulscode.sound.SoundSystem.CommandQueue(SoundSystem.java:2572)
+[16:07:52] [Thread-9/INFO]: paulscode.sound.CommandThread.run(CommandThread.java:121)
+[16:07:52] [Sound Library Loader/WARN]: ERROR MESSAGE:
+[16:07:52] [Sound Library Loader/INFO]: Could not locate OpenAL library.
+[16:07:52] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:07:53] [Thread-11/INFO]: Switching to No Sound
+[16:07:53] [Thread-11/INFO]: (Silent Mode)
+[16:07:53] [Sound Library Loader/INFO]: Sound engine started
+[16:07:58] [Client thread/INFO]: Created: 16x16 textures-atlas
+[16:07:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Auto gg fail
+[16:07:59] [Client thread/INFO]: SoundSystem shutting down...
+[16:08:00] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:08:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:08:00] [Thread-13/INFO]: Initializing LWJGL OpenAL
+[16:08:00] [Thread-13/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:08:00] [Thread-13/ERROR]: Error in class 'LibraryLWJGLOpenAL'
+[16:08:00] [Thread-13/ERROR]: Unable to initialize OpenAL.  Probable cause: OpenAL not supported.
+[16:08:00] [Thread-13/WARN]: ERROR MESSAGE:
+[16:08:00] [Thread-13/INFO]: Could not locate OpenAL library.
+[16:08:00] [Thread-13/WARN]: STACK TRACE:
+[16:08:00] [Thread-13/INFO]: org.lwjgl.openal.AL.create(AL.java:156)
+[16:08:00] [Thread-13/INFO]: org.lwjgl.openal.AL.create(AL.java:102)
+[16:08:00] [Thread-13/INFO]: org.lwjgl.openal.AL.create(AL.java:206)
+[16:08:00] [Thread-13/INFO]: paulscode.sound.libraries.LibraryLWJGLOpenAL.init(LibraryLWJGLOpenAL.java:164)
+[16:08:00] [Thread-13/INFO]: paulscode.sound.SoundSystem.CommandNewLibrary(SoundSystem.java:1576)
+[16:08:00] [Thread-13/INFO]: paulscode.sound.SoundSystem.CommandQueue(SoundSystem.java:2572)
+[16:08:00] [Thread-13/INFO]: paulscode.sound.CommandThread.run(CommandThread.java:121)
+[16:08:00] [Sound Library Loader/WARN]: ERROR MESSAGE:
+[16:08:00] [Sound Library Loader/INFO]: Could not locate OpenAL library.
+[16:08:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:08:01] [Thread-15/INFO]: Switching to No Sound
+[16:08:01] [Thread-15/INFO]: (Silent Mode)
+[16:08:01] [Sound Library Loader/INFO]: Sound engine started
+[16:08:05] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:08:20] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[16:08:20] [Server thread/INFO]: Generating keypair
+[16:08:21] [Server thread/INFO]: Preparing start region for level 0
+[16:08:22] [Server thread/INFO]: Preparing spawn area: 86%
+[16:08:24] [Server thread/INFO]: Player36[local:E:ba469f64] logged in with entity id 359 at (-143.7096892370615, 63.0, 408.9638325713991)
+[16:08:24] [Server thread/INFO]: Player36 joined the game
+[16:08:26] [Server thread/INFO]: Saving and pausing game...
+[16:08:26] [Server thread/INFO]: Saving chunks for level 'mod tests'/Overworld
+[16:08:27] [Server thread/INFO]: Saving chunks for level 'mod tests'/Nether
+[16:08:27] [Server thread/INFO]: Saving chunks for level 'mod tests'/The End
+[16:08:36] [Server thread/INFO]: <Player36> chose the wrong answer! I shall never forget this moment
+[16:08:36] [Client thread/INFO]: [CHAT] <Player36> chose the wrong answer! I shall never forget this moment
+[16:08:37] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:08:49] [Server thread/INFO]: Player36 has just earned the achievement [Taking Inventory]
+[16:08:49] [Client thread/INFO]: [CHAT] Player36 has just earned the achievement [Taking Inventory]
+[16:13:26] [Server thread/INFO]: <Player36> PUZZLE FAIL!
+[16:13:26] [Client thread/INFO]: [CHAT] <Player36> PUZZLE FAIL!
+[16:13:26] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:15:52] [Server thread/INFO]: Saving and pausing game...
+[16:15:52] [Server thread/INFO]: Saving chunks for level 'mod tests'/Overworld
+[16:15:52] [Server thread/INFO]: Saving chunks for level 'mod tests'/Nether
+[16:15:52] [Server thread/INFO]: Saving chunks for level 'mod tests'/The End
+[16:15:53] [Server thread/INFO]: Stopping server
+[16:15:53] [Server thread/INFO]: Saving players
+[16:15:53] [Server thread/INFO]: Saving worlds
+[16:15:53] [Server thread/INFO]: Saving chunks for level 'mod tests'/Overworld
+[16:15:53] [Server thread/INFO]: Saving chunks for level 'mod tests'/Nether
+[16:15:53] [Server thread/INFO]: Saving chunks for level 'mod tests'/The End
+[16:16:02] [Client thread/INFO]: Connecting to sardine.aternos.host., 27724
+[16:16:18] [Client thread/INFO]: Connecting to sardine.aternos.host., 27724
+[16:16:47] [Client thread/INFO]: Connecting to sardine.aternos.host., 27724
+[16:18:07] [Client thread/INFO]: Connecting to sardine.aternos.host., 27724
+[16:18:33] [Client thread/INFO]: [CHAT] [Server] wtf
+[16:18:33] [Client thread/INFO]: [CHAT] Player36 has just earned the achievement [Taking Inventory]
+[16:18:33] [Client thread/INFO]: [CHAT] <Player36> e
+[16:18:38] [Client thread/INFO]: [CHAT] <Player36> alr
+[16:18:39] [Client thread/INFO]: [CHAT] <Player36> alr
+[16:18:43] [Client thread/INFO]: [CHAT] <Player36> shits laggy
+[16:18:45] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:18:59] [Client thread/INFO]: [CHAT] You do not have permission to use this command
+[16:19:21] [Client thread/INFO]: [CHAT] [Server: Opped Player36]
+[16:19:24] [Client thread/INFO]: [CHAT] <Player36> yep
+[16:19:29] [Client thread/INFO]: [CHAT] <Player36> so
+[16:19:32] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:19:55] [Client thread/INFO]: [CHAT] <Player36> PUZZLE FAIL!
+[16:19:55] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:20:05] [Client thread/INFO]: [CHAT] <Player36> shall never forget this moment
+[16:20:13] [Client thread/INFO]: [CHAT] <Player36> chose the wrong answer! I shall never forget this moment
+[16:20:14] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[16:20:22] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[16:29:08] [Client thread/INFO]: Stopping!
+[16:29:08] [Client thread/INFO]: SoundSystem shutting down...
+[16:29:08] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
